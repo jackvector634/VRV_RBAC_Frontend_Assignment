@@ -17,20 +17,22 @@ This project is a simple User Management System built with React.js. It allows y
 - **Tailwind CSS:** For styling and responsive design.
 - **localStorage:** For data persistence.
 
-## How to Use
+### Clone the Repository
 
-1. ***Clone the repository:***
+To clone this repository, use the following command:
 
-    ```bash  git clone https://github.com/jackvector634/VRV_RBAC_Frontend_Assignment.git
+```bash
+git clone https://github.com/jackvector634/VRV_RBAC_Frontend_Assignment.git
 
-2. **Install dependencies:**
+   
+**Install dependencies:**
 
    - (Assuming you have Node.js and npm installed)
    - Run the below command to install all the required dependencies.
    
     npm install
 
-3. **Start the application:**
+**Start the application:**
 
    - Run the below command to start the project locally.
    
