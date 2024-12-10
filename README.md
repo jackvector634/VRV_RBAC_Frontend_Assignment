@@ -39,14 +39,3 @@ git clone https://github.com/jackvector634/VRV_RBAC_Frontend_Assignment.git
     npm start
 
 
-## Interacting with the Application  
-
-- **Creating Roles:** Begin by creating a role that can later be assigned to any user.  
-- **Adding Users:** Click on the "Add User" button to add a new user.  
-- **Editing Users:** Click the "Edit" button next to a user's record in the table to update their details, including their role.  
-- **Deleting Users:** Click the "Delete" button next to a user to permanently remove them.  
-- **Role Management:** When adding or editing a user, assign a specific role to manage their permissions and access.  
-- **LocalStorage Utilization:** The application uses the browser's localStorage for data persistence:  
-  - Saves changes to users and roles (addition, editing, deletion) directly in the browser.  
-  - Ensures user and role data is retained and reloaded even after refreshing the page.  
-
